@@ -17,3 +17,7 @@ mean = false
 cat_friends = ["Shadow", "Bob"]
 human_friends = ["Scott", "Neeru", "Phil"]
 favorite_nap_spots = ["cat tree", "back of couch", "desk"]
+
+#hashes
+ages = { "Sophie" => 1.5, "Shadow" => 1.25 }
+favorite_foods = { "Sophie" => "tilapia", "Shadow" => "chicken" }
