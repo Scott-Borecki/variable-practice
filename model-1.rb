@@ -12,3 +12,8 @@ legs = 4
 cute = true
 shy = true
 mean = false
+
+#arrays
+cat_friends = ["Shadow", "Bob"]
+human_friends = ["Scott", "Neeru", "Phil"]
+favorite_nap_spots = ["cat tree", "back of couch", "desk"]
