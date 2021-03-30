@@ -7,3 +7,8 @@ personality = "coy"
 age_years = 1.5
 teeth = 7
 legs = 4
+
+#booleans
+cute = true
+shy = true
+mean = false
